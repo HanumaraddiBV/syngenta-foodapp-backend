@@ -73,6 +73,10 @@ To oredr dishes, simply send a POST to /order/ with the required fields in the r
 http://localhost:5000/order
 ```
 
+# Heroku deployment link
+```
+https://syngenta-food-app.herokuapp.com/dishes
+```
 # API Endpoints
 
 ```
